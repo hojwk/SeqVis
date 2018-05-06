@@ -1,4 +1,5 @@
-
+<a href="[http://bioinformatics.victorchang.edu.au/seqvis/"><img src="logo.png" align="left" height="96" alt="SeqVis"></a>
+=============================================================================================================================================
 SeqVis: Visualization of compositional heterogeneity in large alignments of nucleotides
 ==========================================================
 
