@@ -1,0 +1,59 @@
+<html>
+<header><title>Content</title></header>
+<body>
+<center>
+<img src="images/logo.png">
+<br>
+<h2>File Format</h2>
+<hr>
+</center>
+<p>
+The File menu provides most of the file I/O and system functionalities.   
+</p>
+<img src="images/file.png">
+
+<p>
+<strong>Open</strong>
+SeqVis currently reads and writes the following sequence file formats:
+	<ul>
+		<li>Sequential Phylip (.phy)
+		<li>FASTA (.fasta, .FA)
+		<li>NEXUS (.nex, .nxs)
+	</ul>
+SeqVis require the sequence file have an extension (eg. .phy, .fasta, .nex). Due to the 
+large range of file format accepted by SeqVis, it is also possible to use SeqVis as a file conversion tool.
+</p>
+
+<p>
+<strong>Add File</strong>
+Larger dataset can be constructed by adding another sequence file. The sequence data will be
+appended to the current visualization views. For example, given that you already have loaded 
+a sequence file containing an alignment of gene from species A-F, loading another sequence file for 
+species G-L will result in displaying species A-L on the screen. A sequence file containing species A-L
+will be saved afterward.
+</p>
+
+<p>
+<strong>Close</strong>
+This menu closes the visual frame (only the frame that contain the tetrahedron, not the whole window) and clear the existing dataset. 
+</p>
+
+<p>
+<strong>Save</strong>
+The existing sequence data can be saved to file in specified format. For the file format available, please see "Open".
+</p>
+
+<p>
+<strong>Capture</strong>
+This menu allows the on screen image on the visual frame (ie the frame containing the tetrahedron) to be captured and saved to file (as 
+PNG or JPEG) as specified by the user.
+</p>
+
+<p>
+<strong>Quit</strong>
+This menu terminates SeqVis immediately. All unsaved data will be discarded. The window will be closed.
+</p>
+
+
+</body>
+</html>
