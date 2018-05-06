@@ -1,12 +1,8 @@
-# SeqVis
-SeqVis: Visualization of compositional heterogeneity in large alignments of nucleotides
-
-
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
-<a href="url"><img src="http://bioinformatics.victorchang.edu.au/seqvis/images/snap1.png" align="left" height="96" alt="SeqVis"></a>
+<a href="url"><img src="http://bioinformatics.victorchang.edu.au/seqvis/images/snap1.png" align="left" width="500" alt="SeqVis"></a>
 =============================================================================================================================================
-SeqVis: Visualization of compositional heterogeneity in large alignments of nucleotides
+#SeqVis: Visualization of compositional heterogeneity in large alignments of nucleotides
 ==========================================================
 
 SeqVis is a stand-alone, platform-independent Java application developed to facilitate analysis and 3D visualization of compositional heterogeneity in species-rich alignments of nucleotide sequences. Each sequence is represented by a dot in a tetrahedron plot (i.e., an extension of the de Finetti), where the position of the dot depends uniquely on the nucleotide content of that sequence. SeqVis also allows users to analyse their data set using, for example, the useful matched-pairs test of symmetry.
@@ -24,6 +20,6 @@ Note
 - You can then run *SeqVis* using the following command:
 
 ``` Java
-## this is an Java command
+## this is a Java command
 java -cp . -jar seqvis.jar
 ```
