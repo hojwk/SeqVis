@@ -2,7 +2,7 @@
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
-<a href="http://bioinformatics.victorchang.edu.au/seqvis/images/snap1.png"><img src="http://bioinformatics.victorchang.edu.au/seqvis/images/snap1.png" align="left" width="400" alt="CIDR"></a>
+<a href="http://bioinformatics.victorchang.edu.au/seqvis/images/snap1.png"><img src="http://bioinformatics.victorchang.edu.au/seqvis/images/snap1.png" align="right" width="400" alt="CIDR"></a>
 =============================================================================================================================================
 
 
