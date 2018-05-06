@@ -23,7 +23,7 @@ Note
 ---------------
 
 - Make sure a [Java Runtime Enrivonment](https://java.com/en/download/) is available on your operating system 
-- Please download and install [Java3D](http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-archive-downloads-java-client-419417.html#java3d-1.5.1-oth-JPR
+- Please download and install [Java3D](http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-archive-downloads-java-client-419417.html#java3d-1.5.1-oth-JPR)
 - Download seqvis.jar. This is the main program. 
 - You can then run *SeqVis* using the following command:
 
